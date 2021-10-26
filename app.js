@@ -90,7 +90,7 @@ function showScores() {
 // create questions here
 let questions = [
     new Question(
-        "හීr?", ["JQuery", "XHTML", "CSS", "HTML"], "හීML"
+        "හීr?", ["JQuery", "හී", "CSS", "HTML"], "හී"
     ),
     new Question(
         "Cascading Style sheet stands for?", ["HTML", "JQuery", "CSS", "XML"], "CSS"
