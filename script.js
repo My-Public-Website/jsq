@@ -86,8 +86,8 @@ function showScores() {
 // create questions here
 let questions = [
     new Question(
-        "Hyper Text Markup Language Stands For?", 
-        ["JQuery", "XHTML","CSS", "HTML"], "HTML"
+        "හී?", 
+        ["JQuery", "හී","CSS", "HTML"], "හී"
     ),
     new Question(
         "Cascading Style sheet stands for?", 
